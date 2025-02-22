@@ -1,7 +1,8 @@
-# Homework 4
+# Homework 5
 
-## Overview
+## Command Patterns and Plugins
 
-- Generating fake data using the `Faker` library.
-- Creating test data for unit testing purposes.
-- Implementing user input handling for calculator operations.
+- Added four basic commands: add, subtract, multiply, and divide alongside REPL.
+- Implemented a "menu" and an "exit" command.
+- Implemented test coverage for commands.
+- Implemented Plugin Architecture
