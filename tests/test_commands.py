@@ -1,9 +1,9 @@
 '''Tests for commands'''
 
 # import pytest
-from app.commands.add import AddCommand  # Import AddCommand
-from app.commands.multiply import MultiplyCommand  # Import MultiplyCommand
-from app.commands.divide import DivideCommand  # Import DivideCommand
+from app.plugins.add import AddCommand  # Import AddCommand
+from app.plugins.multiply import MultiplyCommand  # Import MultiplyCommand
+from app.plugins.divide import DivideCommand  # Import DivideCommand
 
 
 def test_add_command(capfd):
