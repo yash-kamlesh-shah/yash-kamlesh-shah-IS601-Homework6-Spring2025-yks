@@ -1,8 +1,9 @@
-# Homework 5
+# Homework 6
 
-## Command Patterns and Plugins
+- Added logging and environment variables
 
-- Added four basic commands: add, subtract, multiply, and divide alongside REPL.
-- Implemented a "menu" and an "exit" command.
-- Implemented test coverage for commands.
-- Implemented Plugin Architecture
+## Running the Program
+To run the `main.py` script, use the following command:
+
+```bash
+python3 main.py
